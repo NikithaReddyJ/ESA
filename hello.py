@@ -1,2 +1,2 @@
-print("keep learning")
+print("Enjoy learning")
 
