@@ -1,2 +1,2 @@
-print("keep learning")
+print("Welcome to the world of learning!")
 
