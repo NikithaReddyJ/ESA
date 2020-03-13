@@ -1,2 +1,2 @@
-print("keep learning devopS & learn github")
+print("keep learning devopS  github")
 
